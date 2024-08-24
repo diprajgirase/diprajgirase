@@ -28,18 +28,18 @@
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
         </a>
         <br>React
-      </td>
-       <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td>
       <td align="center" style="border: none;">
         <a href="https://www.typescriptlang.org/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
         </a>
         <br>TypeScript
+      </td>
+       </td>
+       <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>Next.js
       </td>
       <td align="center" style="border: none;">
         <a href="https://jquery.com/" style="color: white;">
@@ -70,6 +70,41 @@
 </table>
 </div>
 
+<h2 align="center">📫 Let's Connect!</h2>
+
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <a href="mailto:kenangain2910@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" alt="Canada-+1-437-436-4786" style="margin: 10px;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="India-+91-820-028-0008" style="margin: 10px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+<h3>
+<div align="center">
+  
+⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! 🚀
+
+
+</div>
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
 
 <!---
