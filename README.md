@@ -4,17 +4,20 @@
   </a>
 </h1>
 
+
+
+
+
+<!---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" >
-
-
-
-- 👋 Hi, I’m @diprajgirase
+-👋 Hi, I’m @diprajgirase
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ---->
 
 <!---
 diprajgirase/diprajgirase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
