@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" style="margin-bottom: -20px;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" style="margin-bottom: -10px;">
 
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
