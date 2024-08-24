@@ -145,13 +145,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiprajGirase&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiprajGirase&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiprajGirase&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
@@ -162,16 +162,32 @@
 
 <br>
 
+
 <h3>
 <div align="center">
   
 ⭐️ [DiprajGirase](https://github.com/diprajgirase) | Let's innovate together! 🚀
-
-
 </div>
 </h3>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!---
