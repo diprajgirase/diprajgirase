@@ -70,7 +70,7 @@
 </table>
 </div>
 
-div align="center">
+<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -95,8 +95,6 @@ div align="center">
   </tbody>
 </table>
 </div>
-
-
 
 <h2 align="center">📫 Let's Connect!</h2>
 
