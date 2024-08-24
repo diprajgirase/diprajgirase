@@ -141,7 +141,7 @@
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! 🚀
+⭐️ [DiprajGirase](https://github.com/diprajgirase) | Let's innovate together! 🚀
 
 
 </div>
