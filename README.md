@@ -98,6 +98,42 @@
 </table>
 </div>
 
+
+<h3 align="center"> AI Tools & Prompt Engineering</h3>
+<div align="center">
+ <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;">AI Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/><br>Google Gemini
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
 <h2 align="center">📫 Let's Connect!</h2>
 
 <br>
