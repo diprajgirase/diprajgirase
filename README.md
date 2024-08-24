@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" >
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Dipraj+Girase" alt="Title GitHub Readme" />
@@ -135,7 +136,7 @@
 
 
 <!---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" >
+
 -👋 Hi, I’m @diprajgirase
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
