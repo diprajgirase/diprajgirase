@@ -10,13 +10,13 @@
 <!--## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  --->
 <a href="https://samujjwaal.me/"><img src="cartn.png" align="right" height="300" /></a>
 
-Glad to see you here! I’m a Frontend Developer with deep passion for JavaScript and the open-source community. I balance code with creativity and find peace in a sip of tea🧋. <br><br>
+Glad to see you here! I’m a Frontend Developer with deep passion for JavaScript and the Open-Source Community. I balance code with creativity and find peace in a sip of tea🧋. <br><br>
 Recently, I've been diving into DevOps to streamline workflows and optimize deployments.
 
-- Passionate about guiding teams and driving projects to success 👥🚀
-- Outside of work, I’m in cinematography and energized by video games 🎮
-- When I'm not coding, find me capturing moments with my camera 📸🌟
-- Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between 💬 
+- 🚀 Passionate about guiding teams and driving projects to success.
+- 🌟 Outside of work, I’m in cinematography and energized by video games.
+- 📸 When I'm not coding, find me capturing moments with my camera.
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between.
 
  <h2>How I'd define myself...literally 🤓
 </h2>
@@ -151,10 +151,10 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
 <table>
   <tr>
     <td>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanGain&theme=highcontrast&hide_border=true">
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diprajgirase&theme=highcontrast&hide_border=true">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&bg_color=0d1117&color=f5f6fashow_icons=true&theme=github-dark-blue&hide_border=true&border_radius=0" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&bg_color=0d1117&color=f5f6fashow_icons=true&theme=highcontrast&hide_border=true&border_radius=0" alt="Top Languages">
     </td>
   </tr>
 </table>
@@ -170,28 +170,28 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
 <table>
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:kenangain2910@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style=height="125px" width="125px" "margin: 10px;">
+      <a href="mailto:girasedipraj52@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=girasedipraj52@gmail.com&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain" style=height="125px" width="125px" "margin: 10px;">
+      <a href="https://www.linkedin.com/in/diprajgirase" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@diprajgirase&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://x.com/gain_kenan" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square" alt="KenanGain" style=height="125px" width="125px" "margin: 10px;">
+      <a href="https://x.com/dipraj52" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@dipraj52&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87" style=height="125px" width="125px" "margin: 10px;">
+      <a href="https://www.instagram.com/dipraj_rajput._/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@dipraj_rajput._&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
     <td align="center">
-     <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square" alt="Knight Gamer" style=height="125px" width="125px" "margin: 10px;">
+     <a href="https://discord.gg/diprajgirase" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Dipraj+Girase&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
       </tr>
