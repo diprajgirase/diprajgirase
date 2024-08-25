@@ -184,7 +184,12 @@
 
 
 
-
+<td align="center" style="border: none;">
+        <a href="https://angular.io" style="color: white;">
+          <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50" alt="Angular"/>
+        </a>
+        <br>Angular
+      </td>
 
 
 
