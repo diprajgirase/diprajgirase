@@ -15,7 +15,7 @@ Lately, I've been immersing myself in the world of DevOps, enhancing my abilitie
 Outside of work and academia, I’m drawn to the art of cinematography and the excitement of video games
 </p>
 
-<h2>📫 Let's Connect!</h2> <br>💬 Got a question or just curious about something? Feel free to ask! <br>
+<h2>📫 Let's Connect!</h2>💬 Got a question or just curious about something? Feel free to ask! <br>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Vedant#6729) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simply.vedant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-bhavsar-4742b2225)
 
