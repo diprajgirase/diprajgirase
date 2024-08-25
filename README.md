@@ -8,7 +8,7 @@
 </h1>
 
 <!--## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  --->
-<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+<a href="https://samujjwaal.me/"><img src="cartn.png" align="right" height="300" /></a>
 
 Glad to see you here! I’m a Frontend Developer with deep passion for JavaScript and the open-source community. I balance code with creativity and find peace in a sip of tea🧋. <br><br>
 Recently, I've been diving into DevOps to streamline workflows and optimize deployments.
