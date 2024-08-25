@@ -6,6 +6,8 @@
   </a>
 </h1>
 
+## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 <p>
 Glad to see you here! I’m a Software Engineer with a deep passion for JavaScript and the open-source community. I balance code with badminton 🏸 and find peace in a sip of tea.
 Lately, I've been immersing myself in the world of DevOps, enhancing my abilities to streamline development workflows and optimize deployment processes.
