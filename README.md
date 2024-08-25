@@ -163,8 +163,7 @@ Outside of work and academia, I’m drawn to the art of cinematography and the e
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diprajgirase&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
 
     
