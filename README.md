@@ -12,9 +12,9 @@
 <p>
 Glad to see you here! I’m a Software Engineer with a deep passion for JavaScript and the open-source community. I balance code with badminton 🏸 and find peace in a sip of tea.
 Lately, I've been immersing myself in the world of DevOps, enhancing my abilities to streamline development workflows and optimize deployment processes.
-💻 My professional interests extend into the realms of AI, Machine Learning, and Robotics.
+<br><br>💻 My professional interests extend into the realms of AI, Machine Learning, and Robotics.
 Outside of work and academia, I’m drawn to the art of cinematography and the excitement of video games
-When I'm not coding find me taking photos.
+<br><br>When I'm not coding find me taking photos.
 </p>
 
  
