@@ -91,7 +91,7 @@ Outside of work and academia, I’m drawn to the art of cinematography and the e
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" style="color: white align="left";">Database</th>
+      <th colspan="4"  align="left" style="color: white;">Database</th>
     </tr>
   </thead>
   <tbody>
@@ -119,7 +119,7 @@ Outside of work and academia, I’m drawn to the art of cinematography and the e
  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="6"  style="color: white align="left";">AI Tools</th>
+      <th colspan="6"  align="left" style="color: white;">AI Tools</th>
     </tr>
   </thead>
   <tbody>
