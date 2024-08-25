@@ -3,11 +3,11 @@
 
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Dipraj+Girase;" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+Hello👋🏼;Dipraj+Here!;" alt="Title GitHub Readme" />
   </a>
 </h1>
 
-## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<!--## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  --->
 
 <p>
 Glad to see you here! I’m a Software Engineer with a deep passion for JavaScript and the open-source community. I balance code with badminton 🏸 and find peace in a sip of tea.
@@ -17,8 +17,9 @@ Outside of work and academia, I’m drawn to the art of cinematography and the e
 <br><br>When I'm not coding find me taking photos.
 </p>
 
+ <img src="">
  
-<h2>What I always play with</h2>
+<h2>⚡What I always play with</h2>
 <p>
    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -162,36 +163,37 @@ Outside of work and academia, I’m drawn to the art of cinematography and the e
 <p>Let's code, connect, and create awesome things together!
  </p>
 
-<div align="center">
+<div>
 <table>
   <tr>
     <td colspan="3" align="center">
       <a href="mailto:kenangain2910@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
     <td align="center">
       <a href="https://x.com/gain_kenan" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square" alt="KenanGain">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square" alt="KenanGain" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
     <td align="center">
      <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square" alt="Knight Gamer">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square" alt="Knight Gamer" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
       </tr>
 </table>
+
 
 
   
