@@ -12,13 +12,12 @@
 <p>
 Glad to see you here! I’m a Software Engineer with a deep passion for JavaScript and the open-source community. I balance code with badminton 🏸 and find peace in a sip of tea.
 Lately, I've been immersing myself in the world of DevOps, enhancing my abilities to streamline development workflows and optimize deployment processes.
-
 💻 My professional interests extend into the realms of AI, Machine Learning, and Robotics.
-
 Outside of work and academia, I’m drawn to the art of cinematography and the excitement of video games
 When I'm not coding find me taking photos.
 </p>
 
+ 
 <h2>What I always play with</h2>
 <p>
    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -52,8 +51,22 @@ When I'm not coding find me taking photos.
     ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
    ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
    ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+ </p>
  
-   <!----
+ 
+ 
+<!---- Extra Stufff
+<h2>📫 Find Me On!</h2>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-bhavsar-4742b2225). [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simply.vedant) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Vedant#6729)
+
+<p>
+  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a> 
+  <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
     ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
     ![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
@@ -108,8 +121,9 @@ When I'm not coding find me taking photos.
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-  ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)----->
-  </p>
+  ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
+  ----->
+ 
 
  <h3 >📊GitHub Stats</h3>
 
@@ -142,6 +156,45 @@ When I'm not coding find me taking photos.
 </table>
 
 
+<p align="center">
+  <h2>📫 Find Me On!</h2>
+</p>
+<p>Let's code, connect, and create awesome things together!
+ </p>
+
+<div align="center">
+<table>
+  <tr>
+    <td colspan="3" align="center">
+      <a href="mailto:kenangain2910@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/gain_kenan" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square" alt="KenanGain">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/knightgamer87/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87">
+      </a>
+    </td>
+    <td align="center">
+     <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square" alt="Knight Gamer">
+      </a>
+    </td>
+      </tr>
+</table>
+
+
+  
 <h3>
 <div align="center">
   
@@ -151,15 +204,43 @@ When I'm not coding find me taking photos.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
 
-
-
+<!---   Text Stack Stuff Icons 
+    <td align="center">
+      <a href="https://www.kenangain.com/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Kenan Gain">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square" alt="knightgamer87">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://facebook.com/kenan.gain" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://twitch.tv/knightgamer2910" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square" alt="knightgamer2910">
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square" alt="Automated_Artistry">
+      </a>
+    </td>   
+    <td align="center">
+      <a href="https://github.com/KenanGain" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="Kenan Gain">
+      </a>
+    </td>
+    ---->
 
 <!--- 
-<h2>📫 Let's Connect!</h2>
 
- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Vedant#6729) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simply.vedant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-bhavsar-4742b2225). 
-
- <p>Let's code, connect, and create awesome things together!
 <h2 >🛠️ Tech Stack</h2>
 
 <h3 >Web Development</h3>
@@ -253,7 +334,6 @@ When I'm not coding find me taking photos.
 </table>
 </div>
 
-
 <h3 > AI Tools & Prompt Engineering</h3>
 <div >
  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -296,9 +376,7 @@ When I'm not coding find me taking photos.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ---->
 
-<!---
-diprajgirase/diprajgirase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dipraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
