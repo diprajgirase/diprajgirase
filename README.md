@@ -10,11 +10,11 @@
 <!--## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  --->
 <a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
-Glad to see you here! I’m a Frontend Developer with a deep passion for JavaScript and the open-source community. I balance code with creativity and find peace in a sip of tea🧋. <br><br>
+Glad to see you here! I’m a Frontend Developer with deep passion for JavaScript and the open-source community. I balance code with creativity and find peace in a sip of tea🧋. <br><br>
 Recently, I've been diving into DevOps to streamline workflows and optimize deployments.
 
 - Passionate about guiding teams and driving projects to success 👥🚀
-- Outside of work, I’m captivated by cinematography and energized by video games 🎮
+- Outside of work, I’m in cinematography and energized by video games 🎮
 - When I'm not coding, find me capturing moments with my camera 📸🌟
 - Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between 💬 
 
