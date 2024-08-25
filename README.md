@@ -28,7 +28,7 @@ Outside of work and academia, I’m drawn to the art of cinematography and the e
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="8" style="color: white;">Frontend</th>
+      <th colspan="8" align="left" style="color: white;">Frontend</th>
     </tr>
   </thead>
   <tbody>
