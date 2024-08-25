@@ -1,5 +1,5 @@
-<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" > -->
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fumenzi&countColor=%23263759&style=default" alt="visitor_badge">
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" > 
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fumenzi&countColor=%23263759&style=default" alt="visitor_badge">-->
 
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
@@ -8,15 +8,18 @@
 </h1>
 
 <!--## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  --->
+<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
-<p>
-Glad to see you here! I’m a Software Engineer with a deep passion for JavaScript and the open-source community. I balance code with badminton 🏸 and find peace in a sip of tea.
-Lately, I've been immersing myself in the world of DevOps, enhancing my abilities to streamline development workflows and optimize deployment processes.
-<br><br>💻 My professional interests extend into the realms of AI, Machine Learning, and Robotics.
-Outside of work and academia, I’m drawn to the art of cinematography and the excitement of video games
-<br><br>When I'm not coding find me taking photos.
-</p>
+Glad to see you here! I’m a Frontend Developer with a deep passion for JavaScript and the open-source community. I balance code with creativity and find peace in a sip of tea🧋. <br><br>
+Recently, I've been diving into DevOps to streamline workflows and optimize deployments.
 
+- Passionate about guiding teams and driving projects to success 👥🚀
+- Outside of work, I’m captivated by cinematography and energized by video games 🎮
+- When I'm not coding, find me capturing moments with my camera 📸🌟
+- Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between 💬 
+
+ <h2>How I'd define myself...literally 🤓
+</h2>
  <img src="terminal.gif">
  
 <h2>⚡What I always play with</h2>
