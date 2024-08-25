@@ -17,7 +17,7 @@ Outside of work and academia, I’m drawn to the art of cinematography and the e
 <br><br>When I'm not coding find me taking photos.
 </p>
 
- <img src="">
+ <img src="terminal.gif">
  
 <h2>⚡What I always play with</h2>
 <p>
