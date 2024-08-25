@@ -154,9 +154,6 @@ Outside of work and academia, I’m drawn to the art of cinematography and the e
 
 <div>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=diprajgirase&theme=dark" alt="GitHub Streak" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=diprajgirase&theme=soft-green&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=diprajgirase&theme=holi-theme&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=diprajgirase&theme=github-dark-blue&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
  
   <br>
