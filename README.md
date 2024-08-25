@@ -16,7 +16,11 @@ Outside of work and academia, I’m drawn to the art of cinematography and the e
 </p>
 
 <h2>📫 Let's Connect!</h2>
- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Vedant#6729) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simply.vedant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-bhavsar-4742b2225) 
+
+ [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Vedant#6729) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simply.vedant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-bhavsar-4742b2225). 
+
+ <p>💬 Got a question or just curious about something? Feel free to ask!  
+</p>
 <h2 >🛠️ Tech Stack</h2>
 
 <h3 >Web Development</h3>
@@ -147,7 +151,7 @@ Outside of work and academia, I’m drawn to the art of cinematography and the e
 
  <h3 >📊GitHub Stats</h3>
 
-<div align="center">
+<div>
  
   <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
