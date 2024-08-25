@@ -137,7 +137,7 @@
 </div>
 
 
-<h3 align="center">Git Stats</h3>
+ # 📊 GitHub Stats:              <!--- <h3 align="center">Git Stats</h3>---->
 
 <div align="center">
  
