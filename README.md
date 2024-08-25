@@ -137,28 +137,27 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
 <table>
   <tr>
     <td>
-     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=diprajgirase&theme=github-dark-blue&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=diprajgirase&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" /></a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=diprajgirase&bg_color=0d1117&color=f5f6fashow_icons=true&theme=github-dark-blue&hide_border=true&border_radius=0" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api?username=diprajgirase&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Top Languages">
     </td>
   </tr>
 </table>
-
+ 
 <div align="left">
 </div>
 
 <table>
   <tr>
     <td>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diprajgirase&theme=highcontrast&hide_border=true">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diprajgirase&theme=chartreuse_dark">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&bg_color=0d1117&color=f5f6fashow_icons=true&theme=highcontrast&hide_border=true&border_radius=0" alt="Top Languages">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diprajgirase&theme=chartreuse_dark" alt="Top Languages">
     </td>
   </tr>
 </table>
-
 
 <p align="center">
   <h2>📫 Find Me On!</h2>
