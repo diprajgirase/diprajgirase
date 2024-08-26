@@ -13,7 +13,7 @@
 Glad to see you here! I’m a Frontend Developer with deep passion for JavaScript and the Open-Source Community. I balance code with creativity and find peace in a sip of tea🧋. <br><br>
 Recently, I've been diving into DevOps to streamline workflows and optimize deployments.
 
-- 🚀 Passionate about guiding teams and driving projects to success.
+- 🚀 Interested in Leadership and Project Management task.
 - 🌟 Outside of work, I’m in cinematography and energized by video games.
 - 📸 When I'm not coding, find me capturing moments with my camera.
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between.
