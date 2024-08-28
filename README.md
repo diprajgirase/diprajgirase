@@ -20,6 +20,7 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
 
  <h2>How I'd define myself...literally 🤓
 </h2>
+
  <img src="terminal.gif">
  
 <h2>⚡What I always play with</h2>
