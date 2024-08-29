@@ -41,7 +41,7 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
 
 <h2>🧩Familiar With</h2>
 <p>
-   <img src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black"/>
+<!--    <img src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws"/>
@@ -50,7 +50,7 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/> -->
  
    ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
     ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
