@@ -1,5 +1,5 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" > 
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fumenzi&countColor=%23263759&style=default" alt="visitor_badge">-->
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fumenzi&countColor=%23263759&style=default"  alt="visitor_badge">-->
 
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
