@@ -50,12 +50,12 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
+   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)-->
  
    ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-    ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
    ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
  </p>
  
  
