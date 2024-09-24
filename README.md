@@ -57,7 +57,7 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
    ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
  </p>
  
- 
+
 <!---- Extra Stufff
 <h2>📫 Find Me On!</h2>
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-bhavsar-4742b2225). [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simply.vedant) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Vedant#6729)
