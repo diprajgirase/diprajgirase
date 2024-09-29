@@ -39,7 +39,7 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
  </p>
 
-<h2>🧩Familiar With</h2>
+<h2>🧩Miscellaneous</h2>
 <p>
 <!--    <img src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
