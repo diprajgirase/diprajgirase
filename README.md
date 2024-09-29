@@ -55,6 +55,8 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
    ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
    ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
    ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+
+   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
  </p>
  
 
