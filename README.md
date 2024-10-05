@@ -31,7 +31,6 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
- <img src="https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular"/>
  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>  
@@ -41,7 +40,8 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
 
 <h2>🧩Miscellaneous</h2>
 <p>
-<!--    <img src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black"/>
+<!--   <img src="https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular"/>
+  <img src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws"/>
