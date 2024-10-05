@@ -35,7 +35,6 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
  </p>
 
 <h2>🧩Miscellaneous</h2>
@@ -55,6 +54,7 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
    ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
    ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
    ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
    <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
  </p>
  
