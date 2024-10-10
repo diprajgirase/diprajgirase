@@ -28,11 +28,9 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
- <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"/>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black"/>
    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  </p>
@@ -40,8 +38,10 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
 <h2>🧩Miscellaneous</h2>
 <p>
 <!--   <img src="https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
   <img src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"/>
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
@@ -49,7 +49,8 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>-->
+  <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>-->
  
    ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
    ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
