@@ -35,6 +35,7 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native Badge"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>  
 
@@ -62,11 +63,11 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>-->
 
  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Badge"/>
+ <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase Badge"/>
    <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP Badge"/>
 <img src="https://img.shields.io/badge/-Locomotive_Scroll-000000?style=flat-square&logoColor=white" alt="Locomotive Scroll Badge"/>
 <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js Badge"/>
-<img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native Badge"/>
  </p>
  
 
@@ -130,7 +131,6 @@ Recently, I've been diving into DevOps to streamline workflows and optimize depl
   ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
-  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
