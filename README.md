@@ -1,14 +1,23 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" > 
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fumenzi&countColor=%23263759&style=default"  alt="visitor_badge">-->
 
-<h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=400&multiline=true&width=650&height=140&lines=%24+Hello👋🏼;Dipraj+Here!;" alt="Title GitHub Readme" />
-  </a>
-</h1>
+<table width="100%">
+  <tr>
+    <td align="left" width="70%">
+      <a href="https://git.io/typing-svg" target="_blank">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=400&multiline=true&width=650&height=140&lines=%24+Hello👋🏼;Dipraj+Here!;" alt="Typing SVG" />
+      </a>
+    </td>
+    <td align="center" width="30%" valign="middle">
+      <img src="https://komarev.com/ghpvc/?username=diprajgirase&style=for-the-badge" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
+
 
 <!--## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  --->
 <!--- <a href="https://samujjwaal.me/"><img src="cartn.png" align="right" height="300" /></a> --->
+
 
 Glad to see you here! I’m a Frontend Developer with deep passion for JavaScript and the Open-Source Community. I balance code with creativity and find peace in a sip of tea🧋. <br><br>
 Recently, I've been diving into App Development to enhance user experiences and build efficient, scalable applications.
@@ -17,8 +26,9 @@ Recently, I've been diving into App Development to enhance user experiences and 
 - 🌟 Outside of work, I’m in cinematography and energized by video games.
 - 📸 When I'm not coding, find me capturing moments with my camera.
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between.
+  
 
- <h2>How I'd define myself...literally 🤓
+ <h2>How I'd define myself...literally 🤓        
 </h2>
 
  <img src="terminal.gif">
