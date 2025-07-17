@@ -31,7 +31,7 @@ Recently, I've been diving into App Development to enhance user experiences and 
  <h2>How I'd define myself...literally 🤓        
 </h2>
 
- <img src="terminal.gif">
+ <img src="terminal-2.gif">
  
 <h2>⚡What I always play with</h2>
 <p>
