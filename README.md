@@ -19,7 +19,7 @@
 <!--- <a href="https://samujjwaal.me/"><img src="cartn.png" align="right" height="300" /></a> --->
 
 
-Glad to see you here! I’m a Frontend Developer with deep passion for JavaScript and the Open-Source Community. I balance code with creativity and find peace in a sip of tea🧋. <br><br>
+Glad to see you here! I’m a Software Developer with deep passion for JavaScript and the Open-Source Community. I balance code with creativity and find peace in a sip of tea🧋. <br><br>
 Recently, I've been diving into App Development to enhance user experiences and build efficient, scalable applications.
 
 - 🚀 Interested in Leadership and Project Management task.
