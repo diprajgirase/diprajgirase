@@ -206,7 +206,7 @@ Recently, I’ve been exploring Cloud and AI technologies, figuring out how to l
     </td>
     <td align="center">
       <a href="https://www.instagram.com/dipraaj._/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@dipraj_rajput._&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@dipraaj._&size=square" alt="DiprajGirase" style=height="125px" width="125px" "margin: 10px;">
       </a>
     </td>
     <td align="center">
