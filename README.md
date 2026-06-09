@@ -19,12 +19,12 @@
 <!--- <a href="https://samujjwaal.me/"><img src="cartn.png" align="right" height="300" /></a> --->
 
 
-Glad to see you here! I’m a Software Developer with deep passion for JavaScript and the Open-Source Community. I balance code with creativity and find peace in a sip of tea🧋. <br><br>
-Recently, I've been diving into App Development to enhance user experiences and build efficient, scalable applications.
+Glad to see you here! I’m a Software Developer with a deep passion for building on the web and contributing to the Open-Source Community. I balance code with creativity and find peace in a sip of tea 🧋. <br><br>
+Recently, I’ve been exploring Cloud and AI technologies, figuring out how to leverage them to build smarter, more scalable, and impactful solutions. I’m constantly experimenting with new tools and ideas to create better products and deliver meaningful user experiences.
 
 - 🚀 Interested in Leadership and Project Management task.
 - 🌟 Outside of work, I’m in cinematography and energized by video games.
-- 📸 When I'm not coding, find me capturing moments with my camera.
+- 📸 When I'm not coding, you'll find me behind the camera, chasing the perfect frame.
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between.
   
 
