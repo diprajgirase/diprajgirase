@@ -31,7 +31,7 @@ Recently, I’ve been exploring Cloud and AI technologies, figuring out how to l
  <h2>How I'd define myself...literally 🤓        
 </h2>
 
- <img src="terminal (2).gif">
+ <img src="terminal-2.gif">
  
 <h2>⚡What I always play with</h2>
 <p>
